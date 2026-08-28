@@ -10,8 +10,8 @@ Je viens du terrain : diagnostic d'incidents, configuration de postes, support a
 
 ## Ce sur quoi je travaille en ce moment
 
-- Network Scan engine :  Découvre les appareils d'un réseau local en croisant un scan nmap du segment local et la lecture SNMP d'un routeur et d'un commutateur. Retourne pour chaque appareil son adresse MAC, son segment, son port physique et son type deviné à partir du préfixe MAC. Python, lecture seule.
-
+- [network-scan-engine](https://github.com/rolandtchokpon/network-scan-engine) : Découvre les appareils d'un réseau local en croisant un scan nmap du segment local et la lecture SNMP d'un routeur et d'un commutateur. Retourne pour chaque appareil son adresse MAC, son segment, son port physique et son type deviné à partir du préfixe MAC. Python, lecture seule.
+  
 ## Parcours
 
 | Période | |
