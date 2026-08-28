@@ -10,17 +10,16 @@ Je viens du terrain : diagnostic d'incidents, configuration de postes, support a
 
 ## Ce sur quoi je travaille en ce moment
 
-- [Nom du projet en cours] — [une ligne : ce que ça fait et pourquoi tu le construis]
-- J'apprends l'automatisation par script (PowerShell, Python) et les services infonuagiques.
+- Netwoek Scan engine :  Découvre les appareils d'un réseau local en croisant un scan nmap du segment local et la lecture SNMP d'un routeur et d'un commutateur. Retourne pour chaque appareil son adresse MAC, son segment, son port physique et son type deviné à partir du préfixe MAC. Python, lecture seule.
 
 ## Parcours
 
 | Période | |
 |---|---|
 | 2025 – aujourd'hui | Baccalauréat en génie informatique, Polytechnique Montréal |
-| 2019 – 2024 | Technicien en soutien informatique, Solutions Technologies Adaptées ([ville, pays]) |
-| 2022 | [Titre exact du diplôme], Institut de Mathématiques et des Sciences Physiques, Porto-Novo |
-| 2019 | [Titre exact du diplôme], Université Catholique de l'Afrique de l'Ouest, Cotonou |
+| 2019 – 2024 | Technicien en soutien informatique, Solutions Technologies Adaptées ([Cotonou, Bénin]) |
+| 2022 | Science de l'informatique, Institut de Mathématiques et des Sciences Physiques, Porto-Novo |
+| 2019 | Génie Télécoms et TIC, Université Catholique de l'Afrique de l'Ouest, Cotonou |
 
 ## Compétences
 
@@ -32,11 +31,6 @@ Je viens du terrain : diagnostic d'incidents, configuration de postes, support a
 
 **Programmation** — Python, C++
 
-## Projets
-
-**[Nom du dépôt](lien)** — [Une phrase : le problème réglé, la technologie utilisée.]
-
-**[Nom du dépôt](lien)** — [Une phrase.]
 
 ## Me joindre
 
