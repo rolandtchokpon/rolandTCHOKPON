@@ -35,5 +35,5 @@ Je viens du terrain : diagnostic d'incidents, configuration de postes, support a
 ## Me joindre
 
 - Courriel : roland.tchokpon@gmail.com
-- LinkedIn : 
+- LinkedIn : https://www.linkedin.com/in/roland-kossoun-tchokpon-770010216
 - Montréal, QC
